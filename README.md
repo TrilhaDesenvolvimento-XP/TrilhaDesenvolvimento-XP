@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi nosso somos um projeto feito em parceria com  [SouJunior Labs](https://discord.gg/soujunior-community-759176734460346423). 👋
 
 <!--
 **TrilhaDesenvolvimento-XP/TrilhaDesenvolvimento-XP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
