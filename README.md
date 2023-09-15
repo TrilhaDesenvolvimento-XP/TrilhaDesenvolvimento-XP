@@ -1,5 +1,8 @@
 ### Hi nosso somos um projeto feito em parceria com  [SouJunior Labs](https://discord.gg/soujunior-community-759176734460346423). 👋
 
+**Founder**: [Gabriela Queiroz](https://www.linkedin.com/in/gabiqassis/)  
+**Descrição do projeto**: Será uma plataforma que oferece oportunidades desde iniciante ao avançado na aréa de tecnologia, disponibilizando projetos reais de varios niveis e prazos definidos com acesso ao um time de desenvolvimento, recrutamento para o mesmo e orientação de mentores da plataforma. 
+
 <!--
 **TrilhaDesenvolvimento-XP/TrilhaDesenvolvimento-XP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
